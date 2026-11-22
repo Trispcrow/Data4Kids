@@ -1,3 +1,4 @@
+![description](https://github.com/Trispcrow/Data4Kids/blob/master/Data4KidsLogo.svg)
 # Data4Kids
 Data4Kids is a simple, browser-based learning tool for making graphs, picture graphs, and drawings. It is built with plain HTML, CSS, and JavaScript, without a framework or server-side application. The painting area and PDF/image exports use the browser's Canvas API. Picture Graph stickers use Noto Emoji SVG images loaded online from Google Fonts.
 
